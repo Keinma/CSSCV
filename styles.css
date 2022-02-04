@@ -1,0 +1,145 @@
+body {
+  background-color: #ffffff;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  margin-top: 3.3rem auto 0 auto;
+  color: #041562;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #11468F;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-size: 1.15;
+  color: #292C6D;
+}
+
+a {
+  text-decoration: none;
+  color: #1A1A40;
+  font-weight: bold;
+}
+
+.top-container {
+    background-color: #EEF2FF;
+    position: relative;
+    padding-top: 100px;
+    height: 566px;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+.profile {
+    background-color: #CDDEFF;
+    position: relative;
+    padding-top: 100px;
+    height: 566px;
+}
+
+.skills {
+    background-color: #ffffff  ;
+    position: relative;
+    height: 41rem;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+.contact-me {
+    background-color: #CDDEFF;
+    position: relative;
+    padding-top: 5rem;
+    height: 36rem;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+.bottom-container {
+  background-color: #676FA3;
+  position: relative;
+  height: 5rem;
+}
+
+.job {
+  text-decoration: underline;
+}
+
+.profilepic {
+  border-radius: 100%;
+  height: 200px;
+  position: relative;
+  margin-top: 20px;
+}
+
+.images {
+  position: static;
+  margin-bottom: 0px;
+  height: 25rem;
+}
+
+.skill-row1 {
+  width: 100%;
+  position: static;
+}
+
+.skill-row2 {
+  width: 100%;
+  position: static;
+}
+
+
+.graph {
+  width: 13%;
+  height: 13%;
+}
+
+.webdevelop {
+  width: 13%;
+  height: 13%;
+}
+
+.contact {
+  width: 13%;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  border: 20px;
+}
+
+.btn:hover {
+  background: #329ce3;
+  background-image: -webkit-linear-gradient(top, #329ce3, #2b62c2);
+  background-image: -moz-linear-gradient(top, #329ce3, #2b62c2);
+  background-image: -ms-linear-gradient(top, #329ce3, #2b62c2);
+  background-image: -o-linear-gradient(top, #329ce3, #2b62c2);
+  background-image: linear-gradient(to bottom, #329ce3, #2b62c2);
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: white;
+}
